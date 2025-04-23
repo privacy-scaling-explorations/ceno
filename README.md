@@ -1,3 +1,9 @@
+> **Archiving Notice Apr 2025** ⚠️:
+> 
+> PSE collaborated with [Scroll](https://scroll.io) from  2024Q1 -  2025Q1 building the first iteration of Ceno. Special thanks to [Ming](https://github.com/hero78119) for leading that effort, [Kimi](https://github.com/KimiWu123) and [Soham](https://github.com/zemse) for their significant dev contributions, [Even](https://github.com/10to4) for help on the research side, and [Edu](https://github.com/ed255) and [Ali](https://github.com/0xalizk) for their general support.
+>
+> For the latest on Ceno please follow the [upstream repo](https://github.com/scroll-tech/ceno). 
+
 # Ceno: Non-uniform, Segment and Parallel Risc-V Zero-knowledge Virtual Machine
 
 Please see [the slightly outdated paper](https://eprint.iacr.org/2024/387) for an introduction to Ceno.
